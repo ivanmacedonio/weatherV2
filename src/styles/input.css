@@ -1,0 +1,23 @@
+*{
+    font-family: 'Inclusive Sans', sans-serif;
+}
+
+.title{
+    font-size: 37px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(208, 204, 204);
+    border: 1px;
+    border-radius: 10px;
+    max-width: 35rem;
+    min-height: 4rem;
+    line-height: 4rem;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    
+}
